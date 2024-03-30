@@ -1,4 +1,19 @@
-# klipper-backup 💾 
-Klipper backup script for manual or automated GitHub backups 
-
-This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
+# Current Configuration
+- Raspberry Pi 4b
+- Waveshare 4.3" LCD
+- KIAUH
+- Klipper
+- Mainsail
+- OctoEverywhere
+- Klipper-Backup
+- inotify-tools
+- Silicone standoffs
+- Sprite Pro all metal extruder
+- Modder Board from Nathan Builds Robots
+- Zuff's Modulr 5015 Fan Duct
+- 5015 Blower
+- Zero y-offset CR Touch bracket
+- S1 belt knob lock
+- Z-axis camera mount
+- Logi C920
+- Zuff's 2020 Alum. Profile spool holder
